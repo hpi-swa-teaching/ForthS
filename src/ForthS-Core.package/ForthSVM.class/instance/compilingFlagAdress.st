@@ -1,0 +1,4 @@
+pointer
+compilingFlagAdress
+
+	^ 8

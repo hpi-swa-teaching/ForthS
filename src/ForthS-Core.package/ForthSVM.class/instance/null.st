@@ -1,0 +1,4 @@
+pointer
+null
+
+	^ 0

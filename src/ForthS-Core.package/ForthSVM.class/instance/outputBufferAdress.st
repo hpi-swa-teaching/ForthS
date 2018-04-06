@@ -1,0 +1,4 @@
+pointer
+outputBufferAdress
+
+	^ 7

@@ -1,0 +1,19 @@
+{
+	"category" : "ForthS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GlobalInstance",
+		"SaveInstance" ],
+	"commentStamp" : "LM 2/16/2018 22:53",
+	"instvars" : [
+		"memory",
+		"data",
+		"dictionary",
+		"return",
+		"running" ],
+	"name" : "ForthSVM",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
