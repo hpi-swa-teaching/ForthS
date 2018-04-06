@@ -2,9 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"compile:in:notifying:ifFail:" : "LM 2/13/2018 16:34",
+		"compile:in:environment:notifying:ifFail:" : "LM 4/6/2018 14:12",
+		"compile:in:notifying:ifFail:" : "LM 4/6/2018 14:12",
 		"createMethodBody:" : "LM 2/13/2018 16:24",
 		"escapeString:" : "LM 2/13/2018 16:23",
 		"keyword" : "LM 2/1/2018 15:15",
+		"precompile:" : "LM 4/6/2018 14:11",
 		"prefix" : "LM 2/15/2018 14:21",
 		"suffix" : "LM 2/1/2018 15:14" } }

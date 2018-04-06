@@ -1,6 +1,6 @@
 initialization-defaults
 initializeFORTH
-		<String>
+	<String>
 	CODE IMMEDIATE 
 		self memory 
 			at: self dictionaryPointer + self immediateOffset 
