@@ -95,7 +95,17 @@ initializeFORTH
 		self data push: op1.
 		self data push: op2
 	END
-
+	CODE CLEAR
+		self data clear
+	END
+	CODE .S
+		| counter |
+		counter := self data size.
+		[ counter > 0 ]
+			whileTrue: [ 
+				self outputBuffer: self outputBuffer, Character space, (self data at: counter).
+				counter := counter - 1 ]
+	END
 
 
 		( OUTPUT ) 
