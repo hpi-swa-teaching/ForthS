@@ -3,10 +3,10 @@
 ## Project Description
 A simplified implementation of the Forth Language in Squeak/Smalltalk.
 
-This project was created in the *Programming Languages; Design and Implementation* seminar at the Hasso-Plattner-Institut by Leon Matthes.
+This project was created during winter semester 17/18 as part of the *Programming Languages: Design and Implementation* seminar at the Hasso-Plattner-Institut by Leon Matthes.
 
 ## Installation instruction
-To install the Packages into your image, you must first install [Metacello](https://github.com/Metacello/metacello).
+To install the Packages into your image, you should first install [Metacello](https://github.com/Metacello/metacello).
 
 Then run the following command:
 ```smalltalk
