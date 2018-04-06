@@ -15,5 +15,5 @@
 	"name" : "ForthSVM",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ForthSVMParent",
 	"type" : "normal" }

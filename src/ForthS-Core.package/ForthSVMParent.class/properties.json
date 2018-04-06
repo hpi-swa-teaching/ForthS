@@ -1,0 +1,14 @@
+{
+	"category" : "ForthS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ForthSVMParent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

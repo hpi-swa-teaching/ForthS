@@ -1,6 +1,5 @@
 {
 	"class" : {
-		"compilerClass" : "LM 1/25/2018 18:03",
 		"evaluate:" : "LM 2/15/2018 14:22",
 		"globalInstance" : "LM 2/15/2018 14:22",
 		"globalInstance:" : "LM 2/15/2018 14:23",
@@ -43,7 +42,7 @@
 		"inputBuffer:" : "LM 2/15/2018 14:18",
 		"inputBufferAdress" : "LM 2/15/2018 14:21",
 		"interpret:" : "LM 2/13/2018 15:14",
-		"interpreterDict" : "LM 2/8/2018 16:33",
+		"interpreterDict" : "LM 4/6/2018 13:54",
 		"isImmediateWord:" : "LM 2/15/2018 14:16",
 		"isPrimitiveWord:" : "LM 2/15/2018 14:16",
 		"loadDefaultDictionary" : "LM 2/2/2018 12:59",
