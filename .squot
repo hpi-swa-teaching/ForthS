@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'src\/BaselineOfForthS.package' : #SquotCypressCodeSerializer
+	'src\/BaselineOfForthS.package' : #SquotCypressCodeSerializer,
+	'src\/ForthS-Compiler.package' : #SquotCypressCodeSerializer
 }
