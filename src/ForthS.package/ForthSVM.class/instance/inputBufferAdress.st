@@ -1,0 +1,4 @@
+pointer
+inputBufferAdress
+
+	^ 6

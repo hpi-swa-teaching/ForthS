@@ -1,0 +1,14 @@
+{
+	"category" : "ForthS-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LM 2/16/2018 18:51",
+	"instvars" : [
+		 ],
+	"name" : "ForthSGuessingGame",
+	"pools" : [
+		 ],
+	"super" : "ForthSObject",
+	"type" : "normal" }

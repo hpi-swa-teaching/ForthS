@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"newInMemory:withPointerAdress:" : "LM 2/15/2018 14:24" },
+	"instance" : {
+		"at:" : "LM 2/15/2018 14:15",
+		"clear" : "LM 2/15/2018 14:15",
+		"defaultPointer" : "LM 2/13/2018 16:37",
+		"defaultPointer:" : "LM 2/13/2018 16:37",
+		"errorStackUnderflow" : "LM 2/13/2018 16:38",
+		"initialize" : "LM 2/15/2018 14:15",
+		"isEmpty" : "LM 2/13/2018 16:38",
+		"memory" : "LM 2/13/2018 16:38",
+		"memory:" : "LM 2/13/2018 16:38",
+		"pointer" : "LM 2/15/2018 14:15",
+		"pointer:" : "LM 2/15/2018 14:15",
+		"pointerAdress" : "LM 2/13/2018 16:40",
+		"pointerAdress:" : "LM 2/13/2018 16:40",
+		"pop" : "LM 2/13/2018 16:41",
+		"push:" : "LM 2/15/2018 14:16",
+		"size" : "LM 2/13/2018 16:41",
+		"top" : "LM 2/13/2018 16:41" } }

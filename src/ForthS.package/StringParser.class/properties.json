@@ -1,0 +1,14 @@
+{
+	"category" : "ForthS-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StringParser",
+	"pools" : [
+		 ],
+	"super" : "SHParserST80",
+	"type" : "normal" }

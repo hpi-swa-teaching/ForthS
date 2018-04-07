@@ -1,0 +1,14 @@
+{
+	"category" : "ForthS-Compiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LM 2/16/2018 23:19",
+	"instvars" : [
+		 ],
+	"name" : "StringCompiler",
+	"pools" : [
+		 ],
+	"super" : "Compiler",
+	"type" : "normal" }

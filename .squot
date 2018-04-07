@@ -3,5 +3,6 @@ OrderedDictionary {
 	'src\/ForthS-Compiler.package' : #SquotCypressCodeSerializer,
 	'src\/ForthS-Core.package' : #SquotCypressCodeSerializer,
 	'src\/ForthS-Example.package' : #SquotCypressCodeSerializer,
-	'src\/ForthS-Object.package' : #SquotCypressCodeSerializer
+	'src\/ForthS-Object.package' : #SquotCypressCodeSerializer,
+	'src\/ForthS.package' : #SquotCypressCodeSerializer
 }

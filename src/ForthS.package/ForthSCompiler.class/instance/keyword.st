@@ -1,0 +1,4 @@
+FORTH compilation
+keyword
+
+	^ 'FORTH'

@@ -1,0 +1,16 @@
+{
+	"category" : "ForthS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LM 2/16/2018 17:11",
+	"instvars" : [
+		"memory",
+		"pointerAdress",
+		"defaultPointer" ],
+	"name" : "ForthSStack",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

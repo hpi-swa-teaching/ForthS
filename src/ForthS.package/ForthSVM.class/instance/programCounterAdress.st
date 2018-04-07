@@ -1,0 +1,4 @@
+pointer
+programCounterAdress
+
+	^ 5

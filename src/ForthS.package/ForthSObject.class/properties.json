@@ -1,0 +1,14 @@
+{
+	"category" : "ForthS-Object",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LM 2/16/2018 18:47",
+	"instvars" : [
+		"forthVM" ],
+	"name" : "ForthSObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

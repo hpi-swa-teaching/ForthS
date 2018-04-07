@@ -1,0 +1,1 @@
+A DynamicArray is a modified OrderedCollection that will simply extend the size of the Collection to fit whenever any position that is out of bounds is written to.
